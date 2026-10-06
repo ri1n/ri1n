@@ -57,9 +57,9 @@
 
 | Project | Brief Overview | Primary Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Active Directory & Cloud Lab** | Deployed & secured a Samba 4 AD domain on Oracle Cloud with centralized IAM, UFW network hardening, & automated disaster recovery[cite: 1]. | `Samba 4`, `OCI`, `SSSD`, `UFW`, `Linux`[cite: 1] | [View Details](#-active-directory--cloud-security-lab) |
-| **DevSecOps Pipeline & Analysis** | Engineered an automated Jenkins CI/CD pipeline integrating SAST, SCA, & DAST scans for continuous vulnerability detection & mitigation[cite: 1]. | `Jenkins`, `Snyk`, `OWASP ZAP`, `SonarQube`, `Django`[cite: 1] | [View Details](#-devsecops-pipeline--security-analysis) |
-| **IoT Risk Assessment & Audit** | Conducted a full IT audit, risk register, & security analysis for a 150,000 m² automated warehouse facility[cite: 1]. | `IoT Security`, `Risk Audit`, `Axis/Zebra/Honeywell`[cite: 1] | [View Details](#-iot-risk-assessment--audit-cyber-security-consultancy-project) |
+| **Active Directory & Cloud Lab** | Deployed & secured a Samba 4 AD domain on Oracle Cloud with centralized IAM, UFW network hardening, & automated disaster recovery[cite: 1]. | `Samba 4`, `OCI`, `SSSD`, `UFW`, `Linux` | [View Details](#-active-directory--cloud-security-lab) |
+| **DevSecOps Pipeline & Analysis** | Engineered an automated Jenkins CI/CD pipeline integrating SAST, SCA, & DAST scans for continuous vulnerability detection & mitigation[cite: 1]. | `Jenkins`, `Snyk`, `OWASP ZAP`, `SonarQube`, `Django` | [View Details](#-devsecops-pipeline--security-analysis) |
+| **IoT Risk Assessment & Audit** | Conducted a full IT audit, risk register, & security analysis for a 150,000 m² automated warehouse facility[cite: 1]. | `IoT Security`, `Risk Audit`, `Axis/Zebra/Honeywell` | [View Details](#-iot-risk-assessment--audit-cyber-security-consultancy-project) |
 
 ---
 
