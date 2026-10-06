@@ -68,7 +68,7 @@
 ### 🛡️ Industry & Hands-On Certifications
 * **CompTIA Security+** – *Expected Dec. 2026*  
 * **HTB Certified Junior Cybersecurity Associate (CJCA)** – *Expected Oct. 2026*  
-* **HolmesCTF Top 6.3% Achievement Certificate** – *Issued 2026*  
+* **HolmesCTF Top 6.3% Achievement Certificate** – *Issued Sep. 2026*  
 * **Cisco: Introduction to Cybersecurity** – *Issued Dec. 2023*
  [![Verify Credly](https://img.shields.io/badge/Credly-Verify_Badge-orange?style=flat&logo=credly)](https://www.credly.com/badges/05faff93-ebc3-4b44-922b-c669d7b1fe57/linked_in_profile)
 
