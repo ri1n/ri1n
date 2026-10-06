@@ -22,7 +22,7 @@
   - 📧 **Email:** [hfchin118@gmail.com](mailto:hfchin118@gmail.com)
   - 💼 **LinkedIn:** [Henri Chin](https://www.linkedin.com/in/henrichin)
   - 🏴‍☠️ **Hack The Box:** [Henri Chin](https://profile.hackthebox.com/profile/019fedb1-5983-7287-b9e4-ef284ca489e6?utm_medium=copy_url)
-  - 🐙 **GitHub:** [riln](https://github.com/ri1n)
+  - 🐙 **GitHub:** [ri1n](https://github.com/ri1n)
 
 ---
 
