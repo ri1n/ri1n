@@ -77,8 +77,10 @@
  [![Verify](https://img.shields.io/badge/Credential-Verify-blue?style=flat&logo=googlecloud)](https://www.skills.google/public_profiles/63ccb403-b6ca-407e-af78-5bf80a237619/badges/24146793)
 
 ### 💼 Virtual Work Experience
-* **Forage Virtual Internships** (Cybersecurity & Technology Simulations) – *Completed [Year]*
- [![Verify Forage](https://img.shields.io/badge/Forage-Verify_Certificate-green?style=flat&logo=forage)](https://www.theforage.com)
+* **Forage Virtual Internships** (J.P. Morgan's Software Engineering Job Simulation) – *Completed Sep. 2024*
+ [![Verify Forage](https://img.shields.io/badge/Forage-Verify_Certificate-green?style=flat&logo=forage)](https://www.theforage.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_CHjZJDxctZKtXE2c6_1725298396429_completion_certificate.pdf)
+* **Forage Virtual Internships** (Datacom's Cyber Security Operations Job Simulation) – *Completed Sep. 2025*
+ [![Verify Forage](https://img.shields.io/badge/Forage-Verify_Certificate-green?style=flat&logo=forage)](https://www.theforage.com/completion-certificates/gCW7Xki5Y3vNpBmnn/yTszJTvkHFBH6zAn3_gCW7Xki5Y3vNpBmnn_CHjZJDxctZKtXE2c6_1757020865611_completion_certificate.pdf)
 
 ## 🛡️ Key Security Projects
 
