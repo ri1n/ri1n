@@ -20,9 +20,9 @@
 - 📍 Based in **London, UK** (UK Citizen).
 - 📫 **Connect with me:**
   - 📧 **Email:** [hfchin118@gmail.com](mailto:hfchin118@gmail.com)
-  - 💼 **LinkedIn:** [Henri Chin](https://www.linkedin.com/in/henri-chin)
+  - 💼 **LinkedIn:** [Henri Chin](https://www.linkedin.com/in/henrichin)
   - 🏴‍☠️ **Hack The Box:** [Henri Chin](https://profile.hackthebox.com/profile/019fedb1-5983-7287-b9e4-ef284ca489e6?utm_medium=copy_url)
-  - 🐙 **GitHub:** [riln](https://github.com/riln)
+  - 🐙 **GitHub:** [riln](https://github.com/ri1n)
 
 ---
 
@@ -68,7 +68,8 @@
 ### 🛡️ Industry & Hands-On Certifications
 * **CompTIA Security+** – *Expected Dec. 2026*  
 * **HTB Certified Junior Cybersecurity Associate (CJCA)** – *Expected Oct. 2026*  
-* **HolmesCTF Top 6.3% Achievement Certificate** – *Issued Sep. 2026*  
+* **HolmesCTF Top 6.3% Achievement Certificate** – *Issued Sep. 2026*
+ [📄 View HolmesCTF 2026 Certificate (PDF)](./certificates/holmes-ctf-2026.pdf)  
 * **Cisco: Introduction to Cybersecurity** – *Issued Dec. 2023*
  [![Verify Credly](https://img.shields.io/badge/Credly-Verify_Badge-orange?style=flat&logo=credly)](https://www.credly.com/badges/05faff93-ebc3-4b44-922b-c669d7b1fe57/linked_in_profile)
 
