@@ -57,9 +57,9 @@
 
 | Project | Brief Overview | Primary Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Active Directory & Cloud Lab** | Deployed & secured a Samba 4 AD domain on Oracle Cloud with centralized IAM, UFW network hardening, & automated disaster recovery[cite: 1]. | `Samba 4`, `OCI`, `SSSD`, `UFW`, `Linux` | [View Details](#-active-directory--cloud-security-lab) |
-| **DevSecOps Pipeline & Analysis** | Engineered an automated Jenkins CI/CD pipeline integrating SAST, SCA, & DAST scans for continuous vulnerability detection & mitigation[cite: 1]. | `Jenkins`, `Snyk`, `OWASP ZAP`, `SonarQube`, `Django` | [View Details](#-devsecops-pipeline--security-analysis) |
-| **IoT Risk Assessment & Audit** | Conducted a full IT audit, risk register, & security analysis for a 150,000 m² automated warehouse facility[cite: 1]. | `IoT Security`, `Risk Audit`, `Axis/Zebra/Honeywell` | [View Details](#-iot-risk-assessment--audit-cyber-security-consultancy-project) |
+| **Active Directory & Cloud Lab** | Deployed & secured a Samba 4 AD domain on Oracle Cloud with centralized IAM, UFW network hardening, & automated disaster recovery. | `Samba 4`, `OCI`, `SSSD`, `UFW`, `Linux` | [View Details](#-active-directory--cloud-security-lab) |
+| **DevSecOps Pipeline & Analysis** | Engineered an automated Jenkins CI/CD pipeline integrating SAST, SCA, & DAST scans for continuous vulnerability detection & mitigation. | `Jenkins`, `Snyk`, `OWASP ZAP`, `SonarQube`, `Django` | [View Details](#-devsecops-pipeline--security-analysis) |
+| **IoT Risk Assessment & Audit** | Conducted a full IT audit, risk register, & security analysis for a 150,000 m² automated warehouse facility. | `IoT Security`, `Risk Audit`, `Axis/Zebra/Honeywell` | [View Details](#-iot-risk-assessment--audit-cyber-security-consultancy-project) |
 
 ---
 
@@ -69,13 +69,16 @@
 * **CompTIA Security+** – *Expected Dec. 2026*  
 * **HTB Certified Junior Cybersecurity Associate (CJCA)** – *Expected Oct. 2026*  
 * **HolmesCTF Top 6.3% Achievement Certificate** – *Issued 2026*  
-* **Cisco: Introduction to Cybersecurity** – *Issued Dec. 2023*  
+* **Cisco: Introduction to Cybersecurity** – *Issued Dec. 2023*
+ [![Verify Credly](https://img.shields.io/badge/Credly-Verify_Badge-orange?style=flat&logo=credly)](https://www.credly.com/badges/05faff93-ebc3-4b44-922b-c669d7b1fe57/linked_in_profile)
 
 ### ☁️ Badges & Cloud Achievements
-* **Google Cloud EMEA Challenge Badge** – *Achieved May 2026* [![Verify](https://img.shields.io/badge/Credential-Verify-blue?style=flat&logo=googlecloud)](https://www.skills.google/public_profiles/63ccb403-b6ca-407e-af78-5bf80a237619/badges/24146793)
+* **Google Cloud EMEA Challenge Badge** – *Achieved May 2026*
+ [![Verify](https://img.shields.io/badge/Credential-Verify-blue?style=flat&logo=googlecloud)](https://www.skills.google/public_profiles/63ccb403-b6ca-407e-af78-5bf80a237619/badges/24146793)
 
 ### 💼 Virtual Work Experience
 * **Forage Virtual Internships** (Cybersecurity & Technology Simulations) – *Completed [Year]*
+ [![Verify Forage](https://img.shields.io/badge/Forage-Verify_Certificate-green?style=flat&logo=forage)](https://www.theforage.com)
 
 ## 🛡️ Key Security Projects
 
