@@ -154,3 +154,39 @@
 [Research & AI]     Retrieval-Augmented Generation (RAG), LLM Frameworks, PRISMA Review
 [Languages/Tech]    Python, Django, Bash, Kerberos, LDAP, SMB, DNS
 ```
+
+## 🛡️ Project Domains & Architecture
+
+### 🔐 Identity & Access Management (IAM)
+Focuses on user authentication, credential security, and role-based access control (RBAC).
+* **Core Components:** Multi-factor logic, salted password hashing, user session handling, and identity validation.
+
+---
+
+### 🔑 Cryptography & Vault Operations
+Handles data-at-rest encryption, asymmetric key management, and secure file storage.
+* **Core Components:** Public Key Infrastructure (PKI) key pairs, AES symmetric vault encryption, and cryptographic key stores.
+
+---
+
+### 🕵️ Security Operations & Auditing (SecOps)
+Ensures system visibility, event monitoring, and real-time security tracking.
+* **Core Components:** Audit logging engines, event monitoring scripts, and security activity analysis.
+
+---
+
+### 🗄️ Database Security & Hardening
+Demonstrates vulnerability assessment, schema remediation, and least-privilege database policy enforcement.
+* **Core Components:** Legacy/vulnerable schema analysis, access control list (ACL) implementation, and remediated production SQL scripts.
+
+---
+
+### ⚙️ Core Application & Orchestration
+Integrates system components into a cohesive operational workflow with supporting validation.
+* **Core Components:** Entry-point execution scripts, system controllers, and unit/integration test suites.
+
+---
+
+### 📄 Governance, Risk & Compliance (GRC)
+Provides comprehensive documentation on system design, risk evaluation, and compliance frameworks.
+* **Core Components:** Technical security assessment reports, threat modeling, and architectural specifications.
