@@ -49,7 +49,7 @@
 | Event / CTF | Rank / Placement | Scope & Achievements |
 | :--- | :--- | :--- |
 | **HolmesCTF 2026** | **355th** / 5,637 teams *(Top 6.3%)* | Solved web exploitation, cryptography, and forensic challenges under strict time constraints. |
-| **Upcoming: OPSWAT CIDX Europe 2026** |  |  |
+| **OXHACK 2026** | Joint Runners-up | Built a crowd density project using arduinos to detect crowds with prediction model based on movement  |
 
 ---
 
